@@ -8,7 +8,7 @@
 - 🔭 Atualmente trabalhando em **[Seu Projeto]**
 - 🌱 Aprendendo **React, Node.js e Python**
 - 💬 Pergunte-me sobre **JavaScript e Frontend**
-- 📫 E-mail de contato: **seu-email@gmail.com**
+- 📫 E-mail de contato: **DevBorgesy@gmail.com**
 
 ---
 
