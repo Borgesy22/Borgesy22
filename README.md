@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Ola%2C+eu+sou+o+Enzo+Borges!;Projeto+MesaAlfabetizAR;Desenvolvedor+%26+Eletronica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Ola%2C+eu+sou+o+Enzo+Borges!;Estudante+na+UESB;Projeto+MesaAlfabetizAR;Desenvolvedor+%26+Eletronica" alt="Typing SVG" />
 
   <br />
   <img src="https://komarev.com/ghpvc/?username=Borgesy22&color=38bdf8&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
@@ -8,6 +8,7 @@
 ---
 
 ### 🚀 Sobre Mim
+- 🎓 Estudante na **UESB (Universidade Estadual do Sudoeste da Bahia)**
 - 🔭 Atualmente trabalhando no projeto **MesaAlfabetizAR**
 - 🌱 Aprendendo e aprimorando habilidades em **Java, C++, Python, Eletrônica e Desenvolvimento Web**
 - 💬 Pode me perguntar sobre **Programação, Sistemas Embarcados e Web**
@@ -26,6 +27,14 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </p>
+</div>
+
+---
+
+### 📈 Gráfico de Atividades por Mês
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Borgesy22&theme=react-dark&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" alt="Gráfico de Atividade do GitHub" width="100%" />
 </div>
 
 ---
