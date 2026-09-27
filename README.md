@@ -15,6 +15,22 @@
 
 ---
 
+### 📌 Projeto em Destaque
+
+<div align="center">
+  <h2>🎓 MesaAlfabetizAR</h2>
+  <p><i>Projeto focado em tecnologia assistiva e alfabetização, unindo desenvolvimento de software com hardware e sistemas embarcados.</i></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </p>
+</div>
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,py,html,css,js,react,arduino,git,github,vscode,linux" alt="Tecnologias" />
@@ -22,19 +38,13 @@
 
 ---
 
-### 📊 Estatísticas e Atividade
+### 🎯 Áreas de Foco & Conhecimentos
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Borgesy22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgesy22&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Borgesy22&theme=tokyonight" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=f947aa86-23a9-4928-9933-91f728282320&theme=tokyonight&layout=compact" alt="VS Code WakaTime" />
-</div>
+| Categoria | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Desenvolvimento de Software** | Java, Python, HTML5, CSS3, JavaScript, React |
+| **Hardware & Embarcados** | C++, Arduino, Eletrônica Digital, Circuitos |
+| **Ferramentas & Ambiente** | Git, GitHub, VS Code, Linux |
 
 ---
 
