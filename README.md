@@ -1,37 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Olá,+eu+sou+o+Seu+Nome!👋;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Enzo+Borges!+%F0%9F%90%A7;Desenvolvedor+Software;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+
+  <br />
+  <img src="https://profile-counter.glitch.me/Borgesy22/count.svg" alt="Contador de Visitas" />
 </div>
 
 ---
 
-### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em **[Mesa AlfabetizAR]**
-- 🌱 Aprendendo ** Java, C++, Python, Modelagem 3D e Eletrônica **
-- 💬 Pergunte-me sobre **Meus Projetos!**
-- 📫 E-mail de contato: **DevBorgesy@gmail.com**
+### 🚀 Sobre Mim
+- 🔭 Atualmente trabalhando em **projetos de desenvolvimento de software**
+- 🌱 Aprendendo e aprimorando habilidades em **Full Stack & Novas Tecnologias**
+- 💬 Pode me perguntar sobre **Desenvolvimento Web e Programação**
+- ⚡ Curiosidade: **Apaixonado por criar soluções e aprender novas tecnologias**
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,git,github,vscode,docker" alt="Tecnologias" />
 </p>
 
 ---
 
+### 📊 Estatísticas e Atividade
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=f947aa86-23a9-4928-9933-91f728282320&theme=tokyonight&layout=compact" alt="Estatísticas do VS Code no WakaTime" />
-</div>
----
-
-### 📫 Conecte-se comigo
-<div align="center">
-  <a href="https://linkedin.com/in/enzo-borges-moura-16bb5543a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:DevBorgesy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Borgesy22&theme=tokyonight&column=4" alt="Troféus GitHub
