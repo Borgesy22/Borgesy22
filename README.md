@@ -19,6 +19,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=f947aa86-23a9-4928-9933-91f728282320&theme=tokyonight&layout=compact" alt="Estatísticas do VS Code no WakaTime" />
+</div>
+---
+
 ### 📫 Conecte-se comigo
 <div align="center">
   <a href="https://linkedin.com/in/enzo-borges-moura-16bb5543a/" target="_blank">
@@ -29,16 +34,4 @@
   </a>
 </div>
 
----
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
-
----
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&column=4" />
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=tokyonight&layout=compact" alt="VS Code WakaTime Stats" />
-</div>
