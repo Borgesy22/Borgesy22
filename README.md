@@ -41,7 +41,7 @@
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Desenvolvimento de Software** | Java, Python, HTML5, CSS3, JavaScript, React |
+| **Desenvolvimento de Software** | Java, Python, HTML5, CSS3 |
 | **Hardware & Embarcados** | C++, Arduino, Eletrônica Digital, Circuitos |
 | **Ferramentas & Ambiente** | Git, GitHub, VS Code, Linux |
 
