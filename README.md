@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em **[Seu Projeto]**
-- 🌱 Aprendendo **React, Node.js e Python**
-- 💬 Pergunte-me sobre **JavaScript e Frontend**
+- 🔭 Atualmente trabalhando em **[Mesa AlfabetizAR]**
+- 🌱 Aprendendo ** Java, C++, Python, Modelagem 3D e Eletrônica **
+- 💬 Pergunte-me sobre **Meus Projetos!**
 - 📫 E-mail de contato: **DevBorgesy@gmail.com**
 
 ---
