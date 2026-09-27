@@ -19,7 +19,6 @@
 
 ---
 
-
 ### 📫 Conecte-se comigo
 <div align="center">
   <a href="https://linkedin.com/in/enzo-borges-moura-16bb5543a/" target="_blank">
@@ -28,4 +27,18 @@
   <a href="mailto:DevBorgesy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+
+---
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&column=4" />
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=tokyonight&layout=compact" alt="VS Code WakaTime Stats" />
 </div>
