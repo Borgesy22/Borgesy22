@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Enzo+Borges!+%F0%9F%90%A7;MesaAlfabetizAR;Desenvolvedor+%26+Entusiasta+de+Hardware!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Ola%2C+eu+sou+o+Enzo+Borges!;Projeto+MesaAlfabetizAR;Desenvolvedor+%26+Eletronica" alt="Typing SVG" />
 
   <br />
-  <img src="https://profile-counter.glitch.me/Borgesy22/count.svg" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Borgesy22&color=38bdf8&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
 </div>
 
 ---
@@ -23,12 +23,6 @@
 ---
 
 ### 📊 Estatísticas e Atividade
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Borgesy22&theme=tokyonight&column=4" alt="Troféus GitHub" />
-</div>
-
-<br />
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Borgesy22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
